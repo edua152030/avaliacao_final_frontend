@@ -1,0 +1,47 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+
+#nav1 {
+    background-color: rgb(255, 170, 0);    
+    padding: 0%;
+    margin: 0%;
+    width: 30vw;
+    height: 100vh;
+    float: left;
+    position: absolute;
+    text-align: center;
+}
+#div2 {
+   
+    padding: 0%;
+    margin: 0%;
+    width: 70vw;
+    height: 100vh;
+    float: right;
+    position: absolute;
+    right: 0%;
+}
+
+#ft{
+    border-radius: 50%;
+    width: 23vw;
+    height: 45vh;
+    margin-top: 40%;
+}
+
+li {
+    list-style-type: none;
+    border: 0px;
+    margin: 0px;
+  }
+
+  nav{
+    display: flexbox;
+  }
+
+  .icones{
+    height: 7vh;
+    width: 5vw;
+  }
