@@ -29,8 +29,8 @@ body {
   position: relative;
 }
 
-li {
-  list-style-type: none;
+.li{
+  
   border: 0px;
   margin: 0px;
 }
